@@ -1,3 +1,86 @@
 my first linux practise adding some extra data in it
 second linux command practise
 Some third data
+1  ls -la
+    2  whoami
+    3  ls -laa
+    4  ls -la
+    5  pwd
+    6  uptime
+    7  free -h
+    8  df -h
+    9  mkdir firstfolder
+   10  ls
+   11  ls -la
+   12  cd firstfolder
+   13  ls
+   14  touch never give up.txt
+   15  ls
+   16  echo first linux practise
+   17  cat never give up.txt
+   18  cat give never up.txt
+   19  touch "never give up"
+   20  touch "clear
+   21  clear
+   22  exit
+   23  R
+   24  mkdir firstfile
+   25  cd firstfile
+   26  touch "never give up".txt
+   27  ls
+   28  echo "my first linux file"
+   29  cat "never give up"
+   30  cat never give up
+   31  cat "never give up".txt
+   32  cat "never give up.txt"
+   33  cd ~
+   34  clear
+   35  mkdir secondfile
+   36  ls
+   37  ls -la
+   38  cd secondfile
+   39  touch "linux practise.txt"
+   40  echo "my first linux practise" > "linux practise.txt"
+   41  cat "linux practise.txt"
+   42  "second linux command practise" >> "linux practise.txt"
+   43  echo "second linux command practise" >> "linux practise.txt"
+   44  cat "linux practise.txt"
+   45  nano "linux practise.txt"
+   46  cat "linux practise.txt"
+   47  history
+   48  git --version
+   49  git -version
+   50  cat /etc/os-release
+   51  sudo apt update
+   52  sudo apt install git -y
+   53  git --version
+   54  git config --global user.name "sanjayar9420"
+   55  git config --global user.email "sanjayar9420@gmail.com"
+   56  git config --global --list
+   57  ls
+   58  git add
+   59  cd ~/secondfile
+   60  ls -l
+   61  ls -la
+   62  cat "linux practise.txt"
+   63  git init
+   64  git add "linux practise.txt"
+   65  git commit -m "Moving vm data to git"
+   66  git branch -M main
+   67  git remote add origin https://github.com/sanju1123/vm-data-.git
+   68  git push -u origin main
+   69  push -u origin main
+   70  ~git push -u origin min
+   71  git push -u origin main
+   72  git remote -v
+   73  git push -u origin main
+   74  git init
+   75  git add "Linux Practise.txt"
+   76  ls -la
+   77  cd secondfile
+   78  ls -la
+   79  git add "linux practise.txt"
+   80  git commit -m "vm data in github"
+   81  git satus
+   82  git status
+   83  git push -u origin main
